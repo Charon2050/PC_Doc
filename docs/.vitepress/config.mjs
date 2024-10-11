@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '概念', link: '/concept/concept' },
+      { text: '概念', link: '/concept/overview' },
       { text: '教程', link: '/tutorial/tutorial' }
     ],
 
