@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "电子扫盲WIKI"
+  name: "电子扫盲 WIKI"
   text: "面向所有人的\n电子扫盲课"
   tagline: 
   actions:

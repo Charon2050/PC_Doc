@@ -2,19 +2,21 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "电子扫盲WIKI",
+
+  title: "电子扫盲 WIKI",
   description: "面向所有人的\n电子扫盲课",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '概念', link: '/concept/overview' },
-      { text: '教程', link: '/tutorial/tutorial' }
+      { text: '科普', link: '/concept/overview' },
+      { text: '指南', link: '/tutorial/tutorial' }
     ],
 
     sidebar: {
       '/concept/': [{
-        text: '概念',
+        text: '科普',
         items: [
           { text: '概述', link: '/concept/overview' },
           { text: '电脑', link: '/concept/computer' },
@@ -23,11 +25,12 @@ export default defineConfig({
         ]
       }],
       '/tutorial/': [{
-        text: '教程',
+        text: '指南',
         items: [
           { text: '安装并使用 Steam 平台', link: '/tutorial/steam' },
           { text: '使用电子邮箱', link: '/tutorial/email' },
-          { text: '解压缩', link: '/tutorial/unzip' }
+          { text: '解压缩', link: '/tutorial/unzip' },
+          { text: '访问网页', link: '/tutorial/visit_web' }
         ]
       }]
     },
@@ -35,9 +38,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Charon2050' }
     ],
+
     editLink: {
       pattern: 'https://github.com/Charon2050/PC_Doc/tree/main/docs/:path',
-      text: '在 GitHub 编辑本页面'
+      text: '编辑'
     },
 
     search: {
@@ -57,17 +61,25 @@ export default defineConfig({
                   selectText: '选择',
                   navigateText: '切换',
                   closeText: '关闭'
-                }
-              }
-            }
-          }
-        }
-      }
-    }
+    }}}}}}},
+
+    outline: {
+      label: '目录',
+      level: [2,3]
+    },
+
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+    },
+    lightModeSwitchTitle:"浅色模式",
+    darkModeSwitchTitle:"深色模式"
   },
+
   lang: 'zh_CN',
   cleanUrls: true,
   lastUpdated: true,
+
   markdown: {
     image: {
       lazyLoading: true
@@ -78,6 +90,6 @@ export default defineConfig({
       dangerLabel: '警告',
       infoLabel: '信息',
       detailsLabel: '详细信息'
-    }
+    },
   }
 })
