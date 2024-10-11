@@ -21,7 +21,10 @@ export default defineConfig({
           { text: '概述', link: '/concept/overview' },
           { text: '电脑', link: '/concept/computer' },
           { text: '操作系统', link: '/concept/os' },
-          { text: '文件', link: '/concept/file' }
+          { text: '文件', link: '/concept/file' },
+          { text: '404', link: '/concept/404' },
+          { text: 'BIOS', link: '/concept/bios' },
+          { text: '分辨率和帧率', link: '/concept/resolution_and_frame_rate' }
         ]
       }],
       '/tutorial/': [{
@@ -30,7 +33,8 @@ export default defineConfig({
           { text: '安装并使用 Steam 平台', link: '/tutorial/steam' },
           { text: '使用电子邮箱', link: '/tutorial/email' },
           { text: '解压缩', link: '/tutorial/unzip' },
-          { text: '访问网页', link: '/tutorial/visit_web' }
+          { text: '访问网页', link: '/tutorial/visit_web' },
+          { text: '编辑电子扫盲 WIKI', link: '/tutorial/edit' }
         ]
       }]
     },

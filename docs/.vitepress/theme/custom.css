@@ -1,0 +1,17 @@
+:root {
+  
+  --vp-c-indigo-1: #3473b2;
+  --vp-c-indigo-2: #3882cc;
+  --vp-c-indigo-3: #5691cd;
+  --vp-c-indigo-soft: rgba(102, 153, 255, 0.14);
+
+}
+
+.dark {
+  
+  --vp-c-indigo-1: #a8c5ff;
+  --vp-c-indigo-2: #5b95e6;
+  --vp-c-indigo-3: #3c8cdd;
+  --vp-c-indigo-soft: rgba(102, 153, 255, 0.16);
+
+}
