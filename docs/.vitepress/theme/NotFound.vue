@@ -14,10 +14,10 @@ const { Layout } = DefaultTheme
     <div class="divider"></div>
     <blockquote class="quote">
       <a href="/concept/404">
-        为什么会这样?
-        上一个页面的链接设置错了;
-        网址复制错了/打错了;
-        这个页面被我们删除了。
+        为什么会这样?<br>
+        1. 上一个页面的链接设置错了；<br>
+        2. 网址复制错了/打错了；<br>
+        3. 这个页面被我们删除了。<br>
       </a>
     </blockquote>
     <div class="action">
