@@ -6,7 +6,7 @@ export default defineConfig({
   title: "电子扫盲 WIKI",
   description: "面向所有人的\n电子扫盲课",
 
-  head: [['link', { rel: 'icon', href: '/pic/icon.png' }]],
+  head: [['link', { rel: 'icon', href: '/pic/favicon.ico' }]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -44,7 +44,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Charon2050' }
+      { icon: 'github', link: 'https://github.com/Charon2050/PC_Doc' }
     ],
 
     editLink: {
