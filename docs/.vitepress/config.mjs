@@ -6,7 +6,7 @@ export default defineConfig({
   title: "电子扫盲 WIKI",
   description: "面向所有人的\n电子扫盲课",
 
-  head: [['link', { rel: 'icon', href: '/pic/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
