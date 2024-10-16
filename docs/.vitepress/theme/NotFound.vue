@@ -21,7 +21,7 @@ const { Layout } = DefaultTheme
       </a>
     </blockquote>
     <div class="action">
-      <a class="link" href="javascript:history.back()" aria-label="go to home">
+      <a class="link" href="javascript:history.back()" aria-label="go back">
         返回
       </a>
     </div>

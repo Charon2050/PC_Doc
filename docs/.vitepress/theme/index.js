@@ -4,10 +4,18 @@
 
 import DefaultTheme from 'vitepress/theme';
 import './custom.css';
-//export default DefaultTheme;
 
-import NotFound from './NotFound.vue'
+import NotFound from './NotFound.vue';
+
+import VPFeature from 'vitepress/dist/client/theme-default/components/VPFeature.vue'
+
 export default {
+
   extends: DefaultTheme,
-  Layout: NotFound
+  Layout: NotFound,
+  enhanceApp({ app }) {
+    // 全局注册组件
+    app.component('VPFeature', VPFeature)
+  }
+
 }

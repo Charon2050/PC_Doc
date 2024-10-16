@@ -6,38 +6,42 @@ export default defineConfig({
   title: "电子扫盲 WIKI",
   description: "面向所有人的\n电子扫盲课",
 
+  head: [['link', { rel: 'icon', href: '/pic/icon.png' }]],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
       { text: '科普', link: '/concept/overview' },
-      { text: '指南', link: '/tutorial/tutorial' }
+      { text: '指南', link: '/tutorial/overview' }
     ],
 
-    sidebar: {
-      '/concept/': [{
+    sidebar: [
+      {
         text: '科普',
         items: [
           { text: '概述', link: '/concept/overview' },
           { text: '电脑', link: '/concept/computer' },
           { text: '操作系统', link: '/concept/os' },
+          { text: '浏览器', link: '/concept/browser' },
           { text: '文件', link: '/concept/file' },
           { text: '404', link: '/concept/404' },
           { text: 'BIOS', link: '/concept/bios' },
-          { text: '分辨率和帧率', link: '/concept/resolution_and_frame_rate' }
+          { text: '分辨率和帧率', link: '/concept/resolution_and_frame_rate' },
+          { text: 'DNS', link: '/concept/dns' },
         ]
-      }],
-      '/tutorial/': [{
+      },
+      {
         text: '指南',
         items: [
           { text: '安装并使用 Steam 平台', link: '/tutorial/steam' },
           { text: '使用电子邮箱', link: '/tutorial/email' },
-          { text: '解压缩', link: '/tutorial/unzip' },
+          { text: '压缩与解压缩', link: '/tutorial/unzip' },
           { text: '访问网页', link: '/tutorial/visit_web' },
-          { text: '编辑电子扫盲 WIKI', link: '/tutorial/edit' }
+          { text: '编辑电子扫盲 WIKI', link: '/tutorial/edit' },
         ]
-      }]
-    },
+      },
+    ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Charon2050' }
