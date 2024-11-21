@@ -12,7 +12,7 @@ hero:
       link: concept/overview
     - theme: alt
       text: 在 Github 中查看
-      link: https://github.com/Charon2050
+      link: https://github.com/Charon2050/PC_Doc
 
 features:
   - title: Steam 安装指南
