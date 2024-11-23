@@ -63,7 +63,7 @@ https://gitee.com/rmbgame/SteamTools/releases/latest
 
 ## 二、启用加速器
 
-在 Watt Toolkit 中，点击「网络加速」- 勾选「Steam 服务」- 一键加速，就可以启用 Steam 加速功能。
+在 Watt Toolkit 中，点击「网络加速」- 勾选「Steam 服务」和「国外验证码平台」- 一键加速，就可以启用 Steam 加速功能。
 
 ![8](/pic/watt_toolkit_onekey_proxy.png)
 
