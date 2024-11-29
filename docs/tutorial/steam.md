@@ -91,20 +91,6 @@ https://store.steampowered.com/about/
 
 （[不知道怎么进入，或无法下载？请点这里](/tutorial/visit_web)）
 
-::: tip :link: 您也可以前往微软商店安装Steam（此安装包为第三方上传）
-
-https://apps.microsoft.com/store/detail/XPFCS1RGWBMTTG
-:::
-
-::: tip :bulb: 您也可以使用Winget来安装Steam
-
-右键开始按钮，打开“终端”，输入
-
-`winget install Valve.Steam`
-
-回车
-:::
-
 点击蓝色的「安装 Steam」按钮，即可下载 Steam 安装包。
 
 ![11](/pic/steam_download_page.png)
