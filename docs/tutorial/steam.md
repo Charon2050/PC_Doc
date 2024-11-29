@@ -63,7 +63,7 @@ https://gitee.com/rmbgame/SteamTools/releases/latest
 
 ## 二、启用加速器
 
-在 Watt Toolkit 中，点击「网络加速」- 勾选「Steam 服务」- 一键加速，就可以启用 Steam 加速功能。
+在 Watt Toolkit 中，点击「网络加速」- 勾选「Steam 服务」和「国外验证码平台」- 一键加速，就可以启用 Steam 加速功能。
 
 ![8](/pic/watt_toolkit_onekey_proxy.png)
 
@@ -140,6 +140,14 @@ https://store.steampowered.com/about/
 最后，点击「完成」即可。
 
 ![18](/pic/steam_install_complete.png)
+
+::: details 其它安装方法？
+
+1. 您也可以前往微软商店安装 Steam（此安装包为第三方上传）：https://apps.microsoft.com/store/detail/XPFCS1RGWBMTTG
+
+2. 您也可以使用 Winget 来安装 Steam：右键「开始」按钮，打开「终端」，输入：```winget install Valve.Steam```，然后按下回车键。
+
+:::
 
 ## 四、注册 Steam 帐户
 
