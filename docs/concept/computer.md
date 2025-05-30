@@ -131,7 +131,7 @@
 **浏览器**是用于浏览网页的软件。电脑不同于手机，大部分功能简单的平台（如 B 站、微博、抖音、百度等）都不需要下载安装软件，而是直接访问对应的网页就好。
 
 ::: tip :link: 教程：如何访问网页
-http://doc.charon2050.cn/tutorial/visit_web
+http://learnpc.cn/tutorial/visit_web
 :::
 
 | ![3](/pic/douyin_in_edge.png) |
