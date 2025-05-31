@@ -27,13 +27,14 @@ export default defineConfig({
           { text: '文件', link: '/concept/file' },
           { text: '404', link: '/concept/404' },
           { text: 'BIOS', link: '/concept/bios' },
-          { text: '分辨率和帧率', link: '/concept/resolution_and_frame_rate' },
+          { text: '分辨率', link: '/concept/resolution' },
           { text: 'DNS', link: '/concept/dns' },
         ]
       },
       {
         text: '指南',
         items: [
+          { text: '开机和关机', link: '/tutorial/power' },
           { text: '安装并使用 Steam 平台', link: '/tutorial/steam' },
           { text: '使用电子邮箱', link: '/tutorial/email' },
           { text: '压缩与解压缩', link: '/tutorial/unzip' },
