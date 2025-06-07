@@ -185,7 +185,7 @@ Steam 是国际平台，无法使用手机号、QQ、微信注册，必须使用
 
 为了查阅 Steam 给我们发送的电子邮件，我们需要查阅电子邮箱的收件箱。此处以 QQ 邮箱为例。使用电脑浏览器进入 QQ 邮箱：https://mail.qq.com/
 
-::: hint :link: QQ 邮箱
+::: tip :link: QQ 邮箱
 https://mail.qq.com/
 :::
 
