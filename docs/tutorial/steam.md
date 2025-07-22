@@ -85,10 +85,6 @@ Watt Toolkit 来到「流量统计」页面，说明加速成功了。加速期�
 https://store.steampowered.com/about/
 :::
 
-::: warning :warning: 注意
-请从上方链接下载 Steam，避免使用百度搜索 Steam。百度搜索 Steam 的结果包含大量仿冒网站。
-:::
-
 （[不知道怎么进入，或无法下载？请点这里](/tutorial/visit_web)）
 
 点击蓝色的「安装 Steam」按钮，即可下载 Steam 安装包。
