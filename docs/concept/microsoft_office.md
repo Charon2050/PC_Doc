@@ -14,8 +14,4 @@ MS Office 有三大主要组成部分：Word、PPT 和 Excel。此外，MS Offic
 
 Office 是收费软件，个人版的定价为 ¥ 398.00 / 年。不过一些新电脑会附赠 MS Office。市面上另有一款免费的办公软件是金山 WPS，但非会员有广告。
 
-有技术手段可修改 Office 的验证过程，在未付费的情况下使用 Office。这样的技术手段被称为**破解**<!--[^1]-->。破解 MS Office 是非法行为。不过，国内目前尚无个人用户被微软起诉的案例。
-
-<!--
-[^1]: https://www.cnblogs.com/mrliuyuan/p/18717385
--->
+有技术手段可修改 Office 的验证过程，在未付费的情况下使用 Office。这样的技术手段被称为**破解**<sup>[\[1\]](https://www.cnblogs.com/mrliuyuan/p/18717385)</sup>。破解 MS Office 是非法行为。不过，国内目前尚无个人用户被微软起诉的案例。
