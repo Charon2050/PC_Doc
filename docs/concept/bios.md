@@ -1,12 +1,4 @@
 # BIOS
-<<<<<<< HEAD
-
-::: warning :construction: 本页面正在编辑中
-
-:::
-
-=======
->>>>>>> 6c956c3619c44bbffb931956ca9256452209d09e
 
 ::: warning :construction: 本页面正在编辑中
 
