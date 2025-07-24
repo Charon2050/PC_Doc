@@ -18,7 +18,7 @@
 
 值得注意的是，**iPad、平板并不是电脑**。一般来说，只有运行 Windows 或 MacOS 操作系统的设备才称之为电脑。
 
-电脑由硬件和软件组成。硬件是“看得见、摸得着”的物理设备，而软件则是运行在电脑中的程序。
+电脑由**硬件**和**软件**组成。硬件是「看得见、摸得着」的物理设备，而软件则是运行在电脑中的程序。
 
 ## 硬件
 
@@ -146,7 +146,7 @@ http://learnpc.cn/tutorial/visit_web
 
 办公软件一般指编辑文档、幻灯片和表格的软件。
 
-目前，有 2 大主流办公软件，分别是 Microsoft（微软）公司开发的 Microsoft Office（简称 MS Office 或 Office）和金山公司开发的 WPS Office（简称 WPS）。
+目前，有 2 大主流办公软件，分别是微软公司开发的 Microsoft Office（简称 MS Office 或 Office）和金山公司开发的 WPS Office（简称 WPS）。
 
 ::: info :bulb: 关于 MS Office 的称呼
 实际上，MS Office 现已改名叫 Microsoft 365，但是民间一般仍延续之前的称呼，称其为 MS Office。

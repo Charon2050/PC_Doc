@@ -22,6 +22,7 @@ export default defineConfig({
         items: [
           { text: '概述', link: '/concept/overview' },
           { text: '电脑', link: '/concept/computer' },
+          { text: '键盘', link: '/concept/keyboard' },
           { text: '操作系统', link: '/concept/os' },
           { text: '浏览器', link: '/concept/browser' },
           { text: '文件', link: '/concept/file' },
@@ -35,6 +36,10 @@ export default defineConfig({
         text: '指南',
         items: [
           { text: '开机和关机', link: '/tutorial/power' },
+<<<<<<< HEAD
+=======
+          { text: '卸载软件', link: '/tutorial/uninstall' },
+>>>>>>> 6c956c3619c44bbffb931956ca9256452209d09e
           { text: '安装并使用 Steam 平台', link: '/tutorial/steam' },
           { text: '使用电子邮箱', link: '/tutorial/email' },
           { text: '压缩与解压缩', link: '/tutorial/unzip' },
